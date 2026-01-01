@@ -1,0 +1,24 @@
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 136
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    97
+Düşük     21
+Orta      17
+Yok        1
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    85
+Yüksek    48
+Orta       3
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Diğer firmalar    1
+Rakip firmalar    1
+Name: count, dtype: int64

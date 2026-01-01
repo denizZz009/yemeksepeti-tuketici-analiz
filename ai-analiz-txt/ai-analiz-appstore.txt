@@ -1,0 +1,36 @@
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 499
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Düşük     230
+Yüksek    176
+Yok        67
+Orta       26
+Name: count, dtype: int64
+
+😊 Sentiment Dağılımı:
+duygu_analizi
+Kızgın             290
+Hayal Kırıklığı    131
+Memnun              58
+Nötr                20
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    179
+Yüksek    120
+Düşük      55
+Orta       46
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Getir                                 12
+Trendyol                               8
+Trendyol Yemek                         3
+Trendyol Yemek, Hepsiburada, Getir     1
+Diğer Uygulamalar                      1
+Name: count, dtype: int64

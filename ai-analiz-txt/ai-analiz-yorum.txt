@@ -1,0 +1,26 @@
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 178
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    95
+Düşük     60
+Orta      21
+Yok        2
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    63
+Yüksek    32
+Orta      25
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Trendyol    1
+Name: count, dtype: int64
+
+================================================================================
+✅ TAMAMLANDI! Dosya kaydedildi: 'YEMEKSEPETI_STRATEJIK_ANALIZ_v5.csv'

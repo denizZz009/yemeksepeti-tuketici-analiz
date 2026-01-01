@@ -1,0 +1,233 @@
+
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 362
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    235
+Düşük      93
+Orta       26
+Yok         8
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    186
+Yüksek    118
+Orta        9
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Trendyol                      3
+Getir, Trendyol               2
+Trendyol, Hepsiburada, N11    2
+Trendyol, Hepsiburada         1
+Getir                         1
+Name: count, dtype: int64
+
+
+
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 359
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    262
+Düşük      61
+Orta       36
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    180
+Yüksek     99
+Orta       21
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Trendyol    3
+Fiyuu       1
+Migros      1
+Getir       1
+Name: count, dtype: int64
+
+
+
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 364
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    240
+Düşük      79
+Orta       45
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Yüksek    169
+Kritik    127
+Orta       19
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Getir    1
+Name: count, dtype: int64
+
+
+
+
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 360
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    240
+Orta       81
+Düşük      39
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    187
+Yüksek    143
+Orta       19
+Düşük       1
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Trendyol             2
+Diğer uygulamalar    1
+Rakipleriniz         1
+** yemek             1
+Papara               1
+Name: count, dtype: int64
+
+
+
+
+
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 542
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Düşük     291
+Hata      200
+Yüksek     51
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    270
+Hata      200
+Yüksek     69
+Orta        3
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Hata        200
+Trendyol      1
+Name: count, dtype: int64
+
+
+
+
+
+
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 362
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    201
+Düşük     127
+Orta       33
+Yok         1
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Yüksek    128
+Kritik     84
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Trendyol Yemek    2
+Trendyol          1
+Getir             1
+Rakip firmalar    1
+Diğer firmalar    1
+Name: count, dtype: int64
+
+
+
+
+
+
+
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 360
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    244
+Düşük     109
+Orta        7
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    164
+Yüksek    128
+Orta       18
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Trendyol          4
+Trendyol Yemek    3
+Getir             2
+Name: count, dtype: int64
+
+
+
+
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 354
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    249
+Düşük      79
+Orta       26
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Yüksek    136
+Kritik    100
+Orta       17
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Getir, Trendyol    1
+Trendyol Yemek     1
+Getir              1
+Name: count, dtype: int64
+

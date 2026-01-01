@@ -1,0 +1,28 @@
+📊 ANALİZ İSTATİSTİKLERİ:
+--------------------------------------------------------------------------------
+Toplam İşlenen Yorum: 600
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    383
+Düşük     140
+Orta       54
+Yok        23
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    263
+Yüksek    140
+Orta       43
+Düşük      24
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Getir              42
+Trendyol           28
+Trendyol Yemek      7
+Getir, Trendyol     6
+Migros              3
+Name: count, dtype: int64

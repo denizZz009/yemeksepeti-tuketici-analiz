@@ -1,0 +1,28 @@
+Toplam İşlenen Yorum: 356
+
+🎯 Churn Risk Dağılımı:
+churn_risk_seviyesi
+Yüksek    226
+Düşük      88
+Orta       42
+Name: count, dtype: int64
+
+😊 Sentiment Dağılımı:
+duygu_analizi
+Kızgın             256
+Hayal Kırıklığı    100
+Name: count, dtype: int64
+
+⚡ Aksiyon Önceliği:
+oncelik_skoru
+Kritik    241
+Yüksek    111
+Orta        4
+Name: count, dtype: int64
+
+🏪 En Çok Bahsedilen Rakipler:
+rakip
+Rakip platformlar    2
+Trendyol Yemek       1
+Diğer firmalar       1
+Name: count, dtype: int64
