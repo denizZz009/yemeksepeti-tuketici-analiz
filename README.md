@@ -1,6 +1,8 @@
 # Yemeksepeti Tuketici ve Strateji Analizi Projesi
 <img width="1399" height="904" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d3ddb2c3-8d44-47ea-9876-394dab6b4fd1" />
 
+Website: https://yemeksepeti-insight.netlify.app/
+
 ## Proje Özeti
 Bu proje, Türkiye'nin önde gelen çevrimiçi yemek ve market sipariş platformlarından biri olan Yemeksepeti'ne yönelik kullanıcı geri bildirimlerini analiz etmek amacıyla geliştirilmiş kapsamlı bir veri madenciliği ve yapay zeka çalışmasıdır. Proje kapsamında, Şikayetvar, Google Play Store, App Store ve Ekşi Sözlük gibi çeşitli platformlardan toplanan **29.000'den fazla kullanıcı yorumu** (Veri seti: `yemeksepeti_cleaned_data.csv`), Doğal Dil İşleme (NLP) ve Büyük Dil Modelleri (LLM) kullanılarak incelenmiştir.
 
@@ -33,3 +35,5 @@ Bu veri seti ve analiz araçları, aşağıdaki alanlarda akademik ve sektörel 
 
 ## Lisans ve Yasal Uyarı
 Bu proje kapsamında paylaşılan veriler, kamuya açık kaynaklardan derlenmiştir. Veri setindeki kişisel tanımlayıcı bilgiler (kullanıcı adları), KVKK ve etik standartlar gereği **anonimleştirilmiştir** (`[Kullanıcı Adı Gizlendi]`). Veriler sadece eğitim ve araştırma amaçlı kullanılmalıdır.
+
+Tüm Detaylar için: https://yemeksepeti-insight.netlify.app/
